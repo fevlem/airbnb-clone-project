@@ -60,10 +60,14 @@ Secondary Text: Circular, Book (400), 14px
 
 ## UI Component Patterns
 Planned Components
+
 ## 1.Navbar
 Logo
+
 Search bar
+
 User navigation
+
 Responsive menu
 
 ## 2.Property Card
