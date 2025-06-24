@@ -126,4 +126,11 @@ Team Alignment - Serves as single source of truth for designers/devs
 | Product Owner  | - Define requirements<br>- Prioritize features<br>- Stakeholder communication | Bridges business and technical needs      |
 | Scrum Master   | - Facilitate standups<br>- Remove blockers<br>- Maintain agile process | Optimizes team workflow                          |
  
+## Component Architecture
+Reusable: Designed for multiple use cases
 
+Modular: Independent functionality
+
+Responsive: Mobile-first approach
+
+Accessible: WCAG compliant
